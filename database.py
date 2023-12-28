@@ -35,4 +35,3 @@ def get_items():
 def delete_item(item_id):
     cursor.execute("DELETE FROM items WHERE id = ?", (item_id))
     conn.commit()
-

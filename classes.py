@@ -73,6 +73,3 @@ if __name__ == "__main__":
     # Initialize inventory, notification, and GUI
     # Set up event handlers to manage interactions between GUI and inventory classes
     # Start GUI application loop
-
-
-
